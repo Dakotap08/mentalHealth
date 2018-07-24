@@ -1,0 +1,32 @@
+h1{
+  color: Black;
+  font-family: 'Vesper Libre', serif; ;
+  font-size: 100px;
+  height:20%
+}
+
+p{color: Black;
+  font-family: 'Vesper Libre',serif;
+   font-size: 45px;}
+    /* height:30%} */
+
+ul{color:Black;
+  font-family: 'Vesper Libre', serif;
+   font-size: 30px;
+   height: 20%}
+
+.title{font-size: 20px;
+   height: 100%}
+
+h2{
+     color: Black;
+     font-family: 'Vesper Libre', serif; ;
+     font-size: 50px;
+     height:50%
+   }
+   img {
+       float: right;
+   }
+   h2 {
+       text-align: center;
+   }
